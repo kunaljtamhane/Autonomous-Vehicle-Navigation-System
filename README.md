@@ -33,7 +33,7 @@ Incorporation of fail-safe mechanisms and redundancy to handle unexpected scenar
 Continuous monitoring and adaptation to ensure passenger and pedestrian safety.
 
 7) Technologies Used:
-Programming Languages: Python, C++
+Programming Languages: Python
 Frameworks and Libraries: TensorFlow, Keras, PyTorch, OpenCV, ROS (Robot Operating System)
 Tools: CARLA Simulator, Gazebo, Jupyter Notebooks
 
