@@ -37,6 +37,9 @@ Programming Languages: Python
 Frameworks and Libraries: TensorFlow, Keras, PyTorch, OpenCV, ROS (Robot Operating System)
 Tools: CARLA Simulator, Gazebo, Jupyter Notebooks
 
+8) Road Signs Detection
+Accuracy of Detecting signs in 94% 
+
 ## Outcomes:
 A functional self-driving car model capable of navigating complex environments.
 Extensive documentation and analysis of model performance and limitations.
